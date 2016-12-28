@@ -1,8 +1,8 @@
 {
-    "name": "brightoak/envoyer",
+    "name": "brightoak/wp-cli-envoyer",
     "description": "A command to invoke a deployment via envoyer using the DEPLOY_URL environment variable",
     "type": "wp-cli-package",
-    "homepage": "https://github.com/brightoak/envoyer",
+    "homepage": "https://github.com/brightoak/wp-cli-envoyer",
     "authors": [],
     "minimum-stability": "dev",
     "autoload": {
